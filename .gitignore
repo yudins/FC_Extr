@@ -1,2 +1,4 @@
 .vscode/
 settings.json
+out_free.csv
+out_used.csv
